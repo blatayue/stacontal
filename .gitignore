@@ -41,3 +41,6 @@ jspm_packages
 
 # Webpack modules report
 dist/report.html
+
+# Next.js temp directory
+.next
