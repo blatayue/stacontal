@@ -1,0 +1,24 @@
+{
+  "name": "stacontal",
+  "version": "1.0.0",
+  "description": "next.js and react playground project",
+  "main": "index.js",
+  "scripts": {
+    "start": "next"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blatayue/stacontal.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/blatayue/stacontal/issues"
+  },
+  "homepage": "https://github.com/blatayue/stacontal#readme",
+  "dependencies": {
+    "next": "^4.2.3",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
